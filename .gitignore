@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# VirtualEnv
+venv/
